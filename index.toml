@@ -190,6 +190,11 @@ hash = "67aff581a74c8df21ccc62bae035469f7bc4ad43ee5edeb2295f2d9e42b8043f"
 metafile = true
 
 [[files]]
+file = "mods/dank-storage.pw.toml"
+hash = "fcb9d8b18068ecdb0c0fa5ca217007f9ae5da735843ce5db80fbf3528d7cc964"
+metafile = true
+
+[[files]]
 file = "mods/dark-utilities.pw.toml"
 hash = "56f45e32c12ce85ac282e0b79bd333fff2706484deba98944465f1b3d303e102"
 metafile = true
