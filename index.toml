@@ -90,6 +90,11 @@ hash = "1ae87327a1b14b858635768fd5b5b70444427af8c035b5d1f5231721f488b442"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "8461b7344559646b5051a6d812e2cd4d43e62c8c817d17f0b2552f65306f43d4"
+metafile = true
+
+[[files]]
 file = "mods/building-wands.pw.toml"
 hash = "833c0992b726fb4a0bc3789a74ec59276a364c0948a9afc5d170b7f22d7100cc"
 metafile = true
@@ -135,6 +140,11 @@ hash = "db682d3c387eff10ff70087bdee0e13bb97f8616c49a8f4c7bb0e3146034a663"
 metafile = true
 
 [[files]]
+file = "mods/common-capabilities.pw.toml"
+hash = "df4ec3f22ef7bea987815f6ef14aee57cd23a3f4493b143dfc3a614380e2e73c"
+metafile = true
+
+[[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "9879468ba172a200dc9c02d81ee691236ad697892d047b39b45be099842471c6"
 metafile = true
@@ -172,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "18b1ca556e2221cedba762a96b55df57bb4cf0ad390ed70f2d704b6b286ef679"
+metafile = true
+
+[[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "67aff581a74c8df21ccc62bae035469f7bc4ad43ee5edeb2295f2d9e42b8043f"
 metafile = true
 
 [[files]]
@@ -267,6 +282,11 @@ metafile = true
 [[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "cd487952f1096d06d0507170caf1e49f5f2cebc97eb4323b1e697491990ac0ee"
+metafile = true
+
+[[files]]
+file = "mods/integrated-dynamics.pw.toml"
+hash = "9cb36ecf30366a8c0df3c6b989026ce5059d64aaf09357ffa80ac73fd44cdd24"
 metafile = true
 
 [[files]]
