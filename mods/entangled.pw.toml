@@ -1,0 +1,13 @@
+name = "Entangled"
+filename = "entangled-1.3.17-forge-mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rylMOguI/versions/htlrOdPN/entangled-1.3.17-forge-mc1.20.jar"
+hash-format = "sha1"
+hash = "b7c9a360a9e188c35472143901d9ef0c7ce17cb5"
+
+[update]
+[update.modrinth]
+mod-id = "rylMOguI"
+version = "htlrOdPN"

@@ -111,6 +111,11 @@ hash = "6968e46ff1ab44b78f36feba630a75fba817d919787ad00488aad8961d76635e"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "d1d6ff2b3749a159e309433d774a85b485a1d72931363cd181192bfb95b85c44"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
 metafile = true
@@ -196,6 +201,11 @@ hash = "56f45e32c12ce85ac282e0b79bd333fff2706484deba98944465f1b3d303e102"
 metafile = true
 
 [[files]]
+file = "mods/easy-piglins.pw.toml"
+hash = "2fc929a03cbf064e1e1275905ea55447297ec4f500e0b94a9fc53db54f3932b4"
+metafile = true
+
+[[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "5562ace4b9b8931b01f839979813d62af44dea6947a246df8ae7dc1761c8b720"
 metafile = true
@@ -213,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/endertanks.pw.toml"
 hash = "d82cd0854518dfd6dd3a03d61633ef8f4296f99ed3d72d1394d96e4fbae58e4b"
+metafile = true
+
+[[files]]
+file = "mods/entangled.pw.toml"
+hash = "50de4055817edb50d6faeca519d93b30d88d6a1cfc10badb1f3b79b831cb700a"
 metafile = true
 
 [[files]]
@@ -500,6 +515,11 @@ hash = "57738899c3f550796ca3488d548b91ad713f7235bf8ac77245dc0f0fba3bea90"
 metafile = true
 
 [[files]]
+file = "mods/simple-magnets.pw.toml"
+hash = "4053fef02328ef0b4b42b4383c9b2dc87b66195e59ee2efb7716ea31545f1136"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "408eea3496d0a1bbfc623daa398a4023a170af18745b9f7a2e266185e6d2d76e"
 metafile = true
@@ -525,6 +545,16 @@ hash = "08faa8239705d280e41d353888bf717906fe71b1d5b9278bac9f5cd87b07efb3"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "97ff489cce6b7ad5a4ed965e09a960efc5f6ad7a6cf4f070a47c8de8d00d917f"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "51d5ed928f1e8800a9dd42b44e0f8a4c547780dd763a91748812312b5d29f371"
 metafile = true
@@ -537,6 +567,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "72541a390659918193165af5197af4ed7d23a1d762d39e045b4168488cd4d08a"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "3c9b481baf1f2eca22fe731934427e1d832fc4344a73c7b0f6e1880735c7e4dd"
 metafile = true
 
 [[files]]
