@@ -13,6 +13,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Get tag name
+        id: tag
+        run: echo ::set-output name=VERSION_TAG::${GITHUB_REF/refs\/tags\//}
+
       - name: Setup Go ${{ matrix.go-version }}
         uses: actions/setup-go@v4
         with:
@@ -26,6 +30,12 @@ jobs:
         run: |
           packwiz modrinth export
           packwiz curseforge export
+
+      - name: Create packwiz-installer zip
+        env:
+          VERSION_TAG: ${{ steps.tag.outputs.VERSION_TAG }}
+        run: |
+          zip -r "kitambi-$VERSION_TAG-packwiz-install.zip" index.toml pack.toml mods
 
       - name: Prep output directory
         run: |

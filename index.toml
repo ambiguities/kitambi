@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "75cca7d7cf220c959ea4af5777dbe55a8f2112a11e695af0a454faa842ff588e"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "bf478af7ae31e03fd5029f622c1ebb764466442f1902b7be2cba3ab040811b52"
 metafile = true
@@ -200,6 +196,11 @@ hash = "56f45e32c12ce85ac282e0b79bd333fff2706484deba98944465f1b3d303e102"
 metafile = true
 
 [[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "5562ace4b9b8931b01f839979813d62af44dea6947a246df8ae7dc1761c8b720"
+metafile = true
+
+[[files]]
 file = "mods/elevatormod.pw.toml"
 hash = "09495ae6706b59dab33e6d32c68707cc6ec11e462d9027c1e6e3884e697fe241"
 metafile = true
@@ -267,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "dcab54200a705f5a74544011849f8d77e73776124e7b144a2d27d6117c949b84"
+metafile = true
+
+[[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "0c6e147755de5791b1b421e603902307be55ac037ee016c4621486a7a45f1ed0"
 metafile = true
 
 [[files]]
@@ -347,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/magnum-torch.pw.toml"
 hash = "4c3da1a208b5db619af284da4f9f84077934e05eb99d3ffb8cf315a2b10e2b6a"
+metafile = true
+
+[[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "1eb10738bc8c473a5212a86918941548424a4b10ee563d6b2cbe95bad6107aa3"
 metafile = true
 
 [[files]]
@@ -447,6 +458,25 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "026e484ff48513b66e8d78169bfbe5644fb76974ec1a7d5db1dfcc4590c9ef45"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "44e35060d764d847704deb2b1301c169b798c7c19eef49997516a48acc3d7fd2"
+metafile = true
+
+[[files]]
+file = "mods/rftools-builder.pw.toml"
+hash = "a061707e2f95d07eb8a38afb1f50a5f02803f03eff452452b66bc0b4394dbcec"
+metafile = true
+
+[[files]]
+file = "mods/rftools-dimensions.toml"
+hash = "881bfb3a64f9fd1d3bfa68b6a869b14b3eea0ecbbfef06ff30a671a7b8a286a9"
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "98b6a4de348910cc31bd3a782ab9c38abadef6bca7ec32bd047059b3311ad796"
 metafile = true
 
 [[files]]

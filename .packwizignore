@@ -1,0 +1,7 @@
+# Ignore git and github files
+.gitignore
+.git/
+.github/
+
+# Ignore Readme
+README.md
