@@ -46,6 +46,11 @@ hash = "8122ea8a5a4a24a7bb18f5914fbe185cc0b94d77c8f54da557e02e3fb0c19556"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "5b73728cb17bf6fbcfcf2740e75255f766b69c964ea57a070e7c580d490d221f"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "eb691b8c327e3a44ce4fc099b19b0a2af8ec0b62de1cb3eaa30d60954a2de692"
 metafile = true
@@ -146,6 +151,11 @@ hash = "df4ec3f22ef7bea987815f6ef14aee57cd23a3f4493b143dfc3a614380e2e73c"
 metafile = true
 
 [[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "119a7506c39a296fc3cd7d6f874c08b2664082811ba95daf2b98f27f398fb980"
+metafile = true
+
+[[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "9879468ba172a200dc9c02d81ee691236ad697892d047b39b45be099842471c6"
 metafile = true
@@ -226,18 +236,13 @@ hash = "d82cd0854518dfd6dd3a03d61633ef8f4296f99ed3d72d1394d96e4fbae58e4b"
 metafile = true
 
 [[files]]
+file = "mods/ends-delight.pw.toml"
+hash = "8103d9e0f49919e1868b5c6f82430b648148bb22c0f6ce24982f54070b6a5ce4"
+metafile = true
+
+[[files]]
 file = "mods/entangled.pw.toml"
 hash = "50de4055817edb50d6faeca519d93b30d88d6a1cfc10badb1f3b79b831cb700a"
-metafile = true
-
-[[files]]
-file = "mods/entity-model-features.pw.toml"
-hash = "f01df0e97d136b72ca54b9eaacbdb9adcdadc9bb6cc6d6b80a045e5a99bf5f95"
-metafile = true
-
-[[files]]
-file = "mods/entitytexturefeatures.pw.toml"
-hash = "6aa429945fb3ea2a28187e1fcf0523ebde2adf2c81edcf069d5a2edf21f9273b"
 metafile = true
 
 [[files]]
@@ -263,11 +268,6 @@ metafile = true
 [[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "c03ad50ab5df88a251e335fa8c6a3cfb0621279c76ce9661969450f501d6acf4"
-metafile = true
-
-[[files]]
-file = "mods/freecam.pw.toml"
-hash = "b6c95d8076985e66f59f0715f0cac8593dfac72acadbdb67a288f348a1c12a34"
 metafile = true
 
 [[files]]
@@ -316,8 +316,8 @@ hash = "9cb36ecf30366a8c0df3c6b989026ce5059d64aaf09357ffa80ac73fd44cdd24"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "96320bde9afd69623633debefbaa0d32224fe259ab668c34ad6eab95ba982b22"
+file = "mods/inventory-sorter.pw.toml"
+hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
 metafile = true
 
 [[files]]
@@ -348,11 +348,6 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "79f696c09f378d5a2127ad7ddcda4c03cb2fe71622860c99addef9aa29c91b74"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "f3b0e45a85c3aafbf05a3828a38cd2985f3678b41fa95cfbd5d828ce4fcd4eaa"
 metafile = true
 
 [[files]]
@@ -401,11 +396,6 @@ hash = "004683b6990a62ac42bf370214da457d8ecbab6f35573ae6d3283606df785ef6"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "d71fd32a56325b8fe378cfafe78f81d985436b2fd44638f5bab1f1386680b096"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
 metafile = true
@@ -426,8 +416,28 @@ hash = "6215edafc91907e5eda9ca3abab113456fd3f8675b6acdbd58282fc3fcd6a3bb"
 metafile = true
 
 [[files]]
+file = "mods/pams-harvestcraft-2-crops.pw.toml"
+hash = "58fa126079b9f120d9b70cc9676eda1fecbc515edd14123f57a88abd35645998"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-core.pw.toml"
+hash = "82da9f309f7f4a70cba7885bc52f0723137bb9925a62e545db07b95be65870a0"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-extended.pw.toml"
+hash = "a710d790426a1a8c087a08524ad6ef69a9132e9b13f79722c18a984f35e7026f"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-trees.pw.toml"
+hash = "e586ed7ece00777429172363892eb64d2dee76b41f5c5b84d0ac8e2bdcee7438"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
-hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
+hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
 
 [[files]]
@@ -557,6 +567,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "51d5ed928f1e8800a9dd42b44e0f8a4c547780dd763a91748812312b5d29f371"
+metafile = true
+
+[[files]]
+file = "mods/sushigocrafting.pw.toml"
+hash = "942cb74950bef8e7b03ce6e66f514240b5bc6712b3f4dab72655d9b90e44d5f4"
 metafile = true
 
 [[files]]

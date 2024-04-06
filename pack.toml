@@ -1,12 +1,12 @@
 name = "Kitambi"
 author = "Ambiguities"
-version = "0.0.5"
+version = "0.0.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "98bddb5a482fc274476428516b51805e9a6e4a68eb0e4344d6208d1b329eb7c4"
+hash = "f1b7d3296ee8e3de0fdcb749aece661db9ffdea7838b978f7270c400356bdd7f"
 
 [versions]
 minecraft = "1.20.1"

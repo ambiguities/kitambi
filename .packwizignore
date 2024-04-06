@@ -3,5 +3,6 @@
 .git/
 .github/
 
-# Ignore Readme
+# Ignore markdown files
+NOTES.md
 README.md
