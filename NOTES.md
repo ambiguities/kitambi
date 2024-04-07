@@ -1,4 +1,11 @@
-# Patchnotes
+# Patch Notes
+
+## v0.0.7
+
+### Notes:
+- Fixed the `RFTools Dimensions` file
+
+---
 
 ## v0.0.6
 
