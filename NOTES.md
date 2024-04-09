@@ -1,5 +1,20 @@
 # Patch Notes
 
+## v0.0.8
+
+### Notes:
+- Manually changed the `jei.pw.toml` config from `side = "client"` to `side = "both"` to fix server installs
+
+### Added:
+- AE2 Things [Forge]
+  - AE2-Things-1.2.1.jar
+- Embeddium
+  - embeddium-0.3.12+mc1.20.1.jar
+- StarbuncleMania
+  - starbunclemania-1.20.1-1.2.0.7.jar
+
+---
+
 ## v0.0.7
 
 ### Notes:

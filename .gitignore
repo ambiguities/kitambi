@@ -1,5 +1,5 @@
 # Ignore modrinth exports
-/**/*.mrpack
+/*.mrpack
 
 #Ignore curseforge exports
-/**/*.zip
+/*.zip
