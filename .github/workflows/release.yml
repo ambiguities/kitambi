@@ -35,7 +35,7 @@ jobs:
         env:
           VERSION_TAG: ${{ steps.tag.outputs.VERSION_TAG }}
         run: |
-          zip -r "kitambi-$VERSION_TAG-packwiz-install.zip" index.toml pack.toml packwiz.sh mods datapacks
+          zip -r "kitambi-$VERSION_TAG-packwiz-install.zip" index.toml pack.toml packwiz.sh mods custom
 
       - name: Prep output directory
         run: |

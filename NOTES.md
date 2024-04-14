@@ -1,5 +1,19 @@
 # Patch Notes
 
+## v0.0.9
+
+### Notes:
+- Added tags.js for KubeJS to add fluid_xp to create:bottomless/allow
+- Updated packwiz.sh script for server install
+
+### Added:
+- KubeJS
+  - kubejs-forge-2001.6.4-build.138.jar
+- Rhino
+  - rhino-forge-2001.2.2-build.18.jar
+
+---
+
 ## v0.0.8
 
 ### Notes:
