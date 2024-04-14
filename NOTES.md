@@ -1,10 +1,20 @@
 # Patch Notes
 
+## v0.0.10
+
+### Notes:
+- Removed datapacks
+- Added `recipes.js` and updated `tags.js`
+- Made `packwiz.sh` executable to reduce steps on server
+- Updated `README.md` for server install
+
+---
+
 ## v0.0.9
 
 ### Notes:
-- Added tags.js for KubeJS to add fluid_xp to create:bottomless/allow
-- Updated packwiz.sh script for server install
+- Added `tags.js` for KubeJS to add `mob_grinding_utils:fluid_xp` to `create:bottomless/allow`
+- Updated `packwiz.sh` script for server install
 
 ### Added:
 - KubeJS
@@ -39,7 +49,7 @@
 ## v0.0.6
 
 ### Notes:
-- Added patch noted to NOTES.md for better tracking and reasoning
+- Added patch noted to `NOTES.md` for better tracking and reasoning
 - Removing client side mods that should be added by user preference (`Freecam`, `EMF` + `ETF`)
 - Removed `Inventory Profiles Next` due to conflicts
 - Removed `Mouse Tweaks` in favour of `Inventory Sorter` 

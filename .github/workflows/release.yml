@@ -18,9 +18,11 @@ jobs:
         run: echo ::set-output name=VERSION_TAG::${GITHUB_REF/refs\/tags\//}
 
       - name: Setup Go ${{ matrix.go-version }}
-        uses: actions/setup-go@v4
+        uses: actions/setup-go@v5
         with:
           go-version: '1.21.x'
+          cache-dependency-path: |
+            packwiz/go.sum
     
       - name: Install packwiz
         run: |
@@ -35,7 +37,7 @@ jobs:
         env:
           VERSION_TAG: ${{ steps.tag.outputs.VERSION_TAG }}
         run: |
-          zip -r "kitambi-$VERSION_TAG-packwiz-install.zip" index.toml pack.toml packwiz.sh mods custom
+          zip -r "kitambi-$VERSION_TAG-packwiz-install.zip" index.toml pack.toml packwiz.sh mods kubejs
 
       - name: Prep output directory
         run: |

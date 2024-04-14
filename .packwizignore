@@ -8,5 +8,5 @@ NOTES.md
 README.md
 
 # Ignore custom pack files
-/custom
+/kubejs
 /packwiz.sh

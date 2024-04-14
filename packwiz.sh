@@ -24,33 +24,3 @@ if [ ! -f packwiz-installer-bootstrap.jar ]; then
 fi
 
 java -jar packwiz-installer-bootstrap.jar -g -s both pack.toml
-
-if [ -d custom ]; then
-# if world_folder is not set, then set to `world`
-  if [ -z "$world_folder" ]; then
-    world_folder="world"
-  fi
-
-  if [ ! -d $world_folder ]; then
-    echo "World folder not found"
-    exit 1
-  fi
-
-  if [ -d custom/configs ]; then
-    cp -r custom/configs/* config/
-  fi
-
-  if [ -d custom/datapacks ]; then
-    if [ ! -d $world_folder/datapacks ]; then
-      mkdir $world_folder/datapacks
-    fi
-    cp -r custom/datapacks/* $world_folder/datapacks/
-  fi
-
-  if [ -d custom/kubejs ]; then
-    if [ ! -d kubejs ]; then
-      mkdir kubejs
-    fi
-    cp -r custom/kubejs/* kubejs/
-  fi
-fi
